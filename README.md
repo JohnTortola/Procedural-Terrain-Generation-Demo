@@ -3,6 +3,8 @@
  
  This requires unity 2020.1.11f1 to run.
 
+ You can add this entire folder to unity hub or open Procedural-Terrain-Generation-Demo/Assets/Scenes/SampleScene.unity
+
  With the project open, you can click on the "play" button to playtest the project.
  -WASD or arrows to move
  -Space to move upwards
@@ -13,4 +15,4 @@
 
 All scripts are avaiable in this unity project.
 
-This was done in other to complete my monography "USOS DA GERAÇÃO PROCEDURAL E MODELAGEM 3D PARA CRIAÇÃO DE TERRENOS EM JOGOS DIGITAIS"..
+This was done in other to complete my monography "USOS DA GERAÇÃO PROCEDURAL E MODELAGEM 3D PARA CRIAÇÃO DE TERRENOS EM JOGOS DIGITAIS"
