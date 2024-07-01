@@ -15,4 +15,4 @@
 
 All scripts are avaiable in this unity project.
 
-This was done in other to complete my monography "USOS DA GERAÇÃO PROCEDURAL E MODELAGEM 3D PARA CRIAÇÃO DE TERRENOS EM JOGOS DIGITAIS"
+This was done in other to complete my monography "USOS DA GERAÇÃO PROCEDURAL E MODELAGEM 3D PARA CRIAÇÃO DE TERRENOS EM JOGOS DIGITAIS".
